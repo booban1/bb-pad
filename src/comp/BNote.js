@@ -1,6 +1,6 @@
 import Card from 'react-bootstrap/Card';
 
-function note(props) {
+function Note(props) {
   return (
     <Card style={{ width: '175px', margin: "10px" }}>
       <Card.Body>
@@ -11,4 +11,4 @@ function note(props) {
   );
 }
 
-export default note;
+export default Note;

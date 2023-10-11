@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
 
 
-function nav() {
+function Nav() {
   return (
 	
 	<Container style={{ marginTop: '20px'}}>
@@ -34,4 +34,4 @@ function nav() {
   );
 }
 
-export default nav;
+export default Nav;
