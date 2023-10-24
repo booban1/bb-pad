@@ -10,7 +10,7 @@ function App() {
                   {/* <HomeLoad/> */}
                   <Routes>
                         <Route path="/" element={<HomeLoad/>}></Route>
-                        <Route path="/notebody" element={<NoteBody />}></Route>
+                        <Route path="/notebody" element={<NoteBody/>}></Route>
                   </Routes>
             </div>
 

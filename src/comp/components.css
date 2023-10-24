@@ -1,0 +1,13 @@
+.nav-body {
+	/* height: 100px; */
+	/* background-color: red; */
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+	justify-content: space-between;
+	/* gap: 100px; */
+	padding: 20px ;
+}
+
+
+
