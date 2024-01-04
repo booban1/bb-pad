@@ -12,3 +12,10 @@
 	top: 80vh;
 	right: 10%;
 }
+
+.notebody-text{
+	resize: none;
+	text-wrap: wrap;
+	height: 100px;
+
+}

@@ -2,3 +2,29 @@
 	padding: 20px;
 	/* background-color: red; */
 }
+
+.notebody-title{
+	outline: none;
+}
+
+.notebody-title{
+	outline: none;
+	border: none;
+	width: 100%;
+}
+
+.notebody-title:focus{
+	outline: none;
+}
+
+.notebody-text{
+	outline: none;
+	border: none;
+	width: 100%;
+	height: fit-content;
+	text-wrap: wrap;
+}
+
+.notebody-text:focus{
+	outline: none;
+}
